@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-![Metrics](https://github.com/cqtd/cqtd/blob/master/github-metrics.svg)
+![Metrics](https://github.com/cqtd/cqtd/blob/main/github-metrics.svg)
 
 <!--
 **cqtd/cqtd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
