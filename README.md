@@ -1,5 +1,8 @@
 ### Hi there 👋
-
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fcqtd)](https://github.com/cqtd)
+[![Twitter Badge](https://img.shields.io/badge/-Twitter-1877f2?style=flat-square&logo=twitter&logoColor=white&link=https://twitter.com/cqnity/)](https://twitter.com/cqnity/)
+[![Mail Badge](https://img.shields.io/badge/-Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:cqtd@pm.me)](mailto:cqtd@pm.me)
+[![Github Followers](https://img.shields.io/github/followers/cqtd?color=06d6a0&label=Github%20Followers&style=for-the-badge)](https://github.com/cqtd?tab=followers)
 ![Metrics](https://github.com/cqtd/cqtd/blob/main/github-metrics.svg)
 
 <!--
